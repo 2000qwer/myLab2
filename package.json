@@ -1,0 +1,23 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "Mydesc",
+  "main": "laboratorium2.js",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "tedt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2000qwer/myLab2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2000qwer/myLab2/issues"
+  },
+  "homepage": "https://github.com/2000qwer/myLab2#readme"
+}
