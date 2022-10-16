@@ -8,3 +8,8 @@ const a = (tab) => _.mean(tab)
 
 
 console.log(a(tab))
+
+
+const b = (tab) => _.min(tab) 
+
+const c = (tab) => _.max(tab) 
